@@ -1,0 +1,77 @@
+title: "张悦・iOS・简历"
+name: "张悦"
+jobtitle: "iOS开发工程师"
+telephone: (+86) 17084136880
+contact:
+  - icon: fa-envelope
+    text: zhangyue_apple@icloud.com
+    link: mailto:zhangyue_apple@icloud.com
+  - icon: fa-phone-square
+    text: (+86) 170****6880
+    link: "#code"
+  - icon: fa-globe
+    text: 1ili.github.io
+    link: https://1ili.github.io
+  - icon: fa-github
+    text: 1ilI
+    link: https://github.com/1ilI
+
+evaluate: 三年以上 iOS 开发经验，做过大团队中的螺丝钉，也做过一两个人的独立开发，涉及面广泛，切的了图，搭的过博客，敲的下代码，写的了文档，业务沟通团结协作能力较强，对待工作严谨认真。
+
+education:
+  - university: "大连东软信息学院"
+    duration: "2013/07 - 2017/07"
+    location: "辽宁大连"
+    major: "工学学士，计算机软件"
+  - university: "大连东软信息学院"
+    duration: "2013/07 - 2016/07"
+    location: "辽宁大连"
+    major: "专科，软件技术"
+skills:
+  - title: "技能标签"
+    items: "iOS、Objective-C、CocoaPods、Github、TestFilght、HTML、Mini Program、Photoshop、Terminal"
+experience:
+  - title: "iOS开发工程师"
+    duration: "2017/07 - 至今"
+    company: "南京腾迪智能科技有限公司"
+    description: "1、负责 iOS 整体开发，分配任务，确立技术路线，同后台制定数据交互格式。<br/>2、CocoaPods 库的创建和使用。<br/>3、苹果开发者账号的管理及 APP 的上线和维护。<br/>4、以蓝湖为平台，创建团队，和产品、UI、开发进行沟通和设计。<br/>5、基于 GitHub 自建测试下载分发平台。"
+  - title: "iOS开发工程师"
+    duration: "2016/01 - 2017/06"
+    company: "诚迈科技（南京）股份有限公司"
+    description: "1、iOS平台软件的开发与维护工作。<br/>2、根据项目任务计划完成软件编码和单元测试工作。<br/>3、按照开发流程编写相应模块的设计文档。<br/>4、外派、出差、驻场开发。"
+projects:
+  - name: "环境执法大练兵"
+    description: "一款针对于一线环境执法人员对战、学习、练习的平台应用。<br/>主要负责：<br/>1、搭建主体结构，封装公共控件，制定数据交互格式，分配任务<br/>2、完成登录、首页、练习、竞赛、个人中心、签到、推送模块<br/>3、推送服务、长链接的选型和制定<br/>4、应用的上线、测试和维护工作<br/>5、以蓝湖为平台创建团队进行沟通设计"
+    contribution: "开发、协调、上线"
+  - name: "衡水大气防治"
+    description: "一款针对环保部门的任务流程办理、点位监测处置、地图导航、学习直播的应用。<br/>主要负责：<br/>1、搭建主体结构，封装公共控件，计划分配任务<br/>2、完成登录、首页、直播、个人中心、任务中心、代办任务、H5容器等模块<br/>3、实现签名笔迹、录取视频、地理围栏、推送消息、推流直播等功能<br/>4、应用的上线、测试和维护工作"
+    contribution: "开发、协调、上线"
+  - name: "行政处罚助手"
+    description: "一款集环保部门的法规法案、处罚计算于一体的助手学习类应用。<br/>主要负责：<br/>1、搭建主体结构，封装公共控件，分配任务<br/>2、完成裁量权、计算器、处罚案件模块<br/>3、应用的测试维护工作"
+    contribution: "开发、协调"
+  - name: "移动执法系统"
+    description: "一款可方便一线环保执法人员进行任务执法、表单构建、信证收集、数据统计、信息查询、指挥办公、地图导航、打印学习等的应用。<br/>主要负责：<br/>1、搭建主体结构，封装公共控件，分配任务<br/>2、完成登录、首页、个人中心、任务管理、现场执法、任务指派、代办等模块<br/>3、动态表单创建，集成推送服务，身份证识别、营业执照识别服务，完成H5交互和打印功能<br/>4、应用的上线、测试和维护工作"
+    contribution: "开发、协调、上线"
+  - name: "腾讯投资-Tim"
+    description: "一款面向腾讯内部员工的通过立项、融资、投资等途径的，用以扩大内部员工资产的立项、投资软件。<br/>主要负责：<br/>1、团队开发项目，独自负责iOS端<br/>2、把原基于cordova的工程迁移至原生WebView中，完成了基于ITLogin的登录模块<br/>3、封装了基于NSURLSession的网络请求，以及文件的管理解压缩等<br/>4、制定统一规则，实现H5端与原生之间的通讯<br/>5、与服务器交互，实现H5端资源云获取，版本热更新"
+    contribution: "开发"
+  - name: "刻度协同办公&移动云OA"
+    description: "两款应用一个工程，由苏州移动所打造，集多终端的即时通讯、云笔记、日程管理、任务安排、网盘、邮箱等多个功能模块于一体的协同办公类应用。<br/>主要负责：<br/>1、团队开发项目，主要负责邮箱功能模块的开发，以及语音识别的集成<br/>2、基于Mailcore2抽离逻辑接口并提供给UserInterface层，使用并封装FMDB进行数据持久化存储，集成科大讯飞SDK封装语音识别接口<br/>3、整个工程使用Git+Gerrit+Jenkins所搭建的持续集成和自动化部署平台，使用JIRA作为任务跟踪系统"
+    contribution: "开发"
+  - name: "粤视听"
+    description: "一款为广州中国移动开发的基于移动点播的影音播放平台应用。<br/>主要负责：<br/>1、团队开发项目，主要负责整个排行模块<br/>2、播放详情界面模块<br/>3、基于优酷SKD的视频播放器的自定制，公共数据（视频相关信息）的操作"
+    contribution: "开发"
+  - name: "新联智能"
+    description: "新联集团下的一款同智能插座进行远程控制、电量统计的应用。<br/>主要负责：<br/>1、团队开发项目，主要负责个人用户端(家庭用户、办公室人员、企业维护人员)登录功能的实现<br/>2、运用酷控SDK实现APP远程对空调的遥控与操作<br/>3、遥控器界面的开发<br/>4、运用Charts实现实时功率图表的显示"
+    contribution: "开发"
+  - name: "宠物之家"
+    description: "一款针对爱宠人士推出的APP，用户可以使用硬件绑定个人宠物，实时查看宠物的位置，宠物的运动轨迹等同时设置地理围栏，提供越境警告等功能。<br/>主要负责：<br/>iOS客户端后期维护以及BUG的修复。"
+    contribution: "开发"
+  - name: "智慧园区"
+    description: "一款政企园区(即后期的新城科技园)为商户及用户提供的一个多功能管理、获取资讯的一个平台APP。<br/>主要负责：<br/>1、团队开发项目，主要负责项目主体搭建、公共模块封装以及部分模块的实现<br/>2、编写园区之家前台架构设计和软件说明书"
+    contribution: "开发"
+languages:
+  - name: "英语"
+    proficiency: "工作熟练"
+  - name: "中文"
+    proficiency: "母语"
