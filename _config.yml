@@ -6,4 +6,4 @@ homepage: cn
 exclude:
   - README.md
   - LICENSE
-theme: jekyll-theme-time-machine
+theme: 
